@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96335609954",
+    "project_id": "bo-gradiator",
+    "storage_bucket": "bo-gradiator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96335609954:android:c92de86a04d07d1fb3913b",
+        "android_client_info": {
+          "package_name": "com.example.gradiator_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96335609954-ug4cto6qrrji6aka0urtce565vikqbn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUjd-3vvrHHnBmLW9g75bL8420X73OlWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96335609954-ug4cto6qrrji6aka0urtce565vikqbn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
